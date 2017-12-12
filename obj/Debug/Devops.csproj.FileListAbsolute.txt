@@ -1,5 +1,0 @@
-c:\users\enosis\documents\visual studio 2012\Projects\Devops\Devops\bin\Devops.dll
-c:\users\enosis\documents\visual studio 2012\Projects\Devops\Devops\bin\Devops.pdb
-c:\users\enosis\documents\visual studio 2012\Projects\Devops\Devops\obj\Debug\Devops.csprojResolveAssemblyReference.cache
-c:\users\enosis\documents\visual studio 2012\Projects\Devops\Devops\obj\Debug\Devops.dll
-c:\users\enosis\documents\visual studio 2012\Projects\Devops\Devops\obj\Debug\Devops.pdb
