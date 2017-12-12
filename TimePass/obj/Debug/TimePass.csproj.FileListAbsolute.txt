@@ -1,0 +1,5 @@
+C:\Users\Enosis\Documents\Visual Studio 2012\Projects\TimePass\TimePass\bin\TimePass.dll
+C:\Users\Enosis\Documents\Visual Studio 2012\Projects\TimePass\TimePass\bin\TimePass.pdb
+C:\Users\Enosis\Documents\Visual Studio 2012\Projects\TimePass\TimePass\obj\Debug\TimePass.csprojResolveAssemblyReference.cache
+C:\Users\Enosis\Documents\Visual Studio 2012\Projects\TimePass\TimePass\obj\Debug\TimePass.dll
+C:\Users\Enosis\Documents\Visual Studio 2012\Projects\TimePass\TimePass\obj\Debug\TimePass.pdb
